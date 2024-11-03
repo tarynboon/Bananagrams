@@ -1,10 +1,3 @@
-/*
- * File: Bananagrams.java
- * ------------------
- * This program will eventually play the Bananagrams game from
- * Assignment #4.
- */
-
 import acm.graphics.*;
 import acm.program.*;
 import acm.util.*;
